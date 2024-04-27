@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasbigurel&show_icons=true&locale=en" alt="hasbigurel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasbigurel&" alt="hasbigurel" /></p>
+
+
+![snake gif](https://github.com/HasbiGurel/HasbiGurel/blob/output/github-contribution-grid-snake.gif)
+
